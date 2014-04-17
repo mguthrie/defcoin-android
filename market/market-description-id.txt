@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai Litecoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Litecoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam Litecoin dan mata uang lainnya.
+• Mengirim dan menerima Litecoin via NFC, kode-QR atau Tautan Litecoin.
+• Buku alamat untuk alamat penggunaan litecoin secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas Litecoin dan menerima koin.
+• Widget Apl untuk saldo Litecoin.
+
+Anda dapat mengetahui lebih mengenai Litecoin di
+http://litecoin.org
+
+Jika Anda ingin berkontribusi kepada Litecoin Wallet, proyeknya berada di
+https://github.com/Litecoin-Java/litecoin-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html

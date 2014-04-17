@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<PreferenceCategory android:title="@string/about_title" >
+		<Preference
+			android:key="about_version"
+			android:title="Version" />
+		<Preference
+			android:summary="© 2011-2014, Andreas Schildbach\n© 2014 Defcoin Dev Team"
+			android:title="Copyright" />
+		<Preference
+			android:key="about_license"
+			android:title="@string/about_license_title" />
+		<Preference
+			android:key="about_source"
+			android:title="Source Code" />
+		<Preference
+			android:key="about_market_app"
+			android:summary="@string/about_market_app_summary"
+			android:title="@string/about_market_app_title" />
+		<Preference
+			android:key="about_community_googleplus"
+			android:summary="@string/about_community_googleplus_summary"
+			android:title="@string/about_community_googleplus_title" />
+		<Preference
+			android:key="about_author_twitter"
+			android:summary="\@DefcoinProject"
+			android:title="@string/about_author_twitter_title" />
+		<Preference
+			android:key="about_author_googleplus"
+			android:summary="+DefcoinProject"
+			android:title="@string/about_author_googleplus_title" />
+		<Preference android:key="about_credits_bitcoinj" />
+		<Preference
+			android:key="about_credits_zxing"
+			android:title="@string/about_credits_zxing_title" />
+        <Preference
+            android:key="about_processor"
+            android:title="OS Name" />
+	</PreferenceCategory>
+
+</PreferenceScreen>
